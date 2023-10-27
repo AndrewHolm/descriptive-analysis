@@ -1,4 +1,4 @@
-## Descriptive analysis on Olypic Dataset
+## Descriptive analysis on Olympic Dataset
 - Preperation: Normalization, Missing Values, and Sampling
 - Central Tendency Measures: Mean, Median, Mode
 - Visualization Of Central Tendencies: Histogram
