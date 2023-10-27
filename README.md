@@ -4,4 +4,6 @@
 - Visualization Of Central Tendencies: Histogram
 - Correlation: Scatter Plot, Heat Map
 - Dispersion: Box Plot
-- Measures of Shape: Kurtosis and Skewness 
+- Measures of Shape: Kurtosis and Skewness
+
+## Presentation Slides Included
